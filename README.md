@@ -1,4 +1,4 @@
-# self_improvement
+# deep-learning
 Hi folks, here is some useful info about this repo:
 What the project does?
   This is a deep learning repo, containing various deep learning projects. I will share the exact source and what part
